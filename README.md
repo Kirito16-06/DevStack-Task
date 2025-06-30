@@ -193,18 +193,10 @@ npm run lint         # Run ESLint
 
 ### Frontend Deployment
 **Platform**: Vercel/Netlify
-- **Live URL**: [Your deployment URL]
+- **Live URL**: https://dev-stack-task.vercel.app/
 - **Status**: ✅ Active
 
-### Backend Deployment
-**Platform**: Railway/Render
-- **API URL**: [Your API URL]
-- **Status**: ✅ Active
 
-### Database
-**Platform**: MongoDB Atlas
-- **Connection**: ✅ Connected
-- **Cluster**: Free Tier (512MB)
 
 ## 👨‍💻 Author
 
