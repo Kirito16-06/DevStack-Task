@@ -201,13 +201,10 @@ npm run lint         # Run ESLint
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+- GitHub: KIRITO16-06(https://github.com/KIRITO-1606)
+- LinkedIn: Kartik Silodiya ([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/kartik-silodiya-8aa09227a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+- Email: kartiksilodiya16@gmail.com
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
